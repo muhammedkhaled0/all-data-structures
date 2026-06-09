@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Binary-Seach-Tree/Binary-Seach-Tree.vcxproj" />
-</Solution>
